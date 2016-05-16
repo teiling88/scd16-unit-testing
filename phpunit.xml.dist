@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<phpunit bootstrap="tests/PluginTest.php">
+    <testsuites>
+        <testsuite name="default">
+            <directory>tests</directory>
+        </testsuite>
+        <testsuite name="mapper">
+            <directory>tests/TEiling/Etos/Mapper</directory>
+        </testsuite>
+    </testsuites>
+</phpunit>
