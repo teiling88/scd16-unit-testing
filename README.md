@@ -4,3 +4,4 @@
 * phpunit --group unit-tests
 * phpunit --group integration-tests
  
+Example Plugin for following Talk: [joind.in/talk/d346a](https://joind.in/talk/d346a) 
